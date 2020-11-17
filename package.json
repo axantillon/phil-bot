@@ -1,0 +1,19 @@
+{
+  "name": "phil-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot named Phil that answers any question you may have about the server it's in.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "author": "Andres Antillon",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.6.3",
+    "nodemon": "^2.0.6"
+  }
+}

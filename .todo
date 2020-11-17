@@ -1,0 +1,6 @@
+- Expand to include dashboard for more advanced functionality
+    For example:
+        - Manage the description for the server from an 
+        integrated platform
+        - Allow for the integration of adding the rules of the 
+        server and have them be queryable and answerable by BERT
